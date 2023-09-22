@@ -43,19 +43,23 @@ Rating
 
 ## Findings:
 
-Nearly 62% of the titles are comprised of Action, Comedy, and Drama. The other 38% comprises the rest of the genres.
+1. Nearly 62% of the titles are comprised of Action, Comedy, and Drama.
+   The other 38% comprises the rest of the genres.
 
 
-51% of the Total Mean Budget is comprised of Adventure, Animation, Action, Fantasy, Science Fiction. The other 49% comprises the rest of the genres.
+2. 51% of the Total Mean Budget is comprised of Adventure, Animation, Action, Fantasy, Science Fiction.
+   The other 49% comprises the rest of the genres.
 
 
-Percentage wise, Mean Revenue correlates fairly well with the Mean Budget given the respective genre.
+3. Percentage wise, Mean Revenue correlates fairly well with the Mean Budget given the respective genre.
 
 
-History, Mystery, and Horror genres give the biggest  bang for the buck.
+4. History, Mystery, and Horror genres give the biggest  bang for the buck.
 
 
-A decent positive correlation exists between Budget and Profit for Adventure films; however, quite a few films showed close to 0 or negative profitability. Given this fact, producers should perform plenty of market research before making an Adventure film.
+5. A decent positive correlation exists between Budget and Profit for Adventure films;
+    however, quite a few films showed close to 0 or negative profitability.
+   Given this fact, producers should perform plenty of market research before making an Adventure film.
 
 
 
